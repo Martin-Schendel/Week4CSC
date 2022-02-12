@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schendel Week 03 Web API", "Schendel Week 03 Web API\Schendel Week 03 Web API.csproj", "{D1587359-CC27-4A19-9846-C67D014925FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1587359-CC27-4A19-9846-C67D014925FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1587359-CC27-4A19-9846-C67D014925FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1587359-CC27-4A19-9846-C67D014925FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1587359-CC27-4A19-9846-C67D014925FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFB4944F-A35D-41D8-8A95-5D0AA56CE391}
+	EndGlobalSection
+EndGlobal
