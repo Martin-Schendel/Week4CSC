@@ -25,3 +25,30 @@ C:\Users\Martin\source\repos\Schendel Week 03 Web API\Schendel Week 03 Web API\o
 C:\Users\Martin\source\repos\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\ref\Schendel Week 03 Web API.dll
 C:\Users\Martin\source\repos\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.pdb
 C:\Users\Martin\source\repos\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.genruntimeconfig.cache
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\appsettings.json
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Schendel Week 03 Web API.exe
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Schendel Week 03 Web API.deps.json
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Schendel Week 03 Web API.runtimeconfig.json
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Schendel Week 03 Web API.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\ref\Schendel Week 03 Web API.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Schendel Week 03 Web API.pdb
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.csproj.AssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.AssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\scopedcss\bundle\Schendel Week 03 Web API.styles.css
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.csproj.CopyComplete
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\ref\Schendel Week 03 Web API.dll
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.pdb
+C:\Users\Martin\Documents\GitHub\Week4CSC\Schendel Week 03 Web API\Schendel Week 03 Web API\obj\Debug\net6.0\Schendel Week 03 Web API.genruntimeconfig.cache

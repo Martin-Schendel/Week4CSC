@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin\\source\\repos\\Schendel Week 03 Web API\\Schendel Week 03 Web API\\Schendel Week 03 Web API.csproj",
+      "projectUniqueName": "C:\\Users\\Martin\\Documents\\GitHub\\Week4CSC\\Schendel Week 03 Web API\\Schendel Week 03 Web API\\Schendel Week 03 Web API.csproj",
       "projectName": "Schendel Week 03 Web API",
-      "projectPath": "C:\\Users\\Martin\\source\\repos\\Schendel Week 03 Web API\\Schendel Week 03 Web API\\Schendel Week 03 Web API.csproj",
+      "projectPath": "C:\\Users\\Martin\\Documents\\GitHub\\Week4CSC\\Schendel Week 03 Web API\\Schendel Week 03 Web API\\Schendel Week 03 Web API.csproj",
       "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin\\source\\repos\\Schendel Week 03 Web API\\Schendel Week 03 Web API\\obj\\",
+      "outputPath": "C:\\Users\\Martin\\Documents\\GitHub\\Week4CSC\\Schendel Week 03 Web API\\Schendel Week 03 Web API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
